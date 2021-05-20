@@ -21,3 +21,25 @@ Abstract: Government jobs in India are valuable, not just because they pay relat
 
 ## Work in Progress
 
+
+
+## Publications
+
+### ReStat 100th Anniversary Article Series
+
+The following articles are non-peer-reviewed pieces written in commemoration of the <i>Review of Economics and Statistics</i> 100th anniversary:
+
+Khwaja, Asim I., and Kunal Mangal. "Review of Economics and Statistics over the Past 100 Years: A Counting Exercise." <i>Review of Economics and Statistics</i> 100, no. 2 (2018a): i-v.
+
+Khwaja, Asim I., and Kunal Mangal. "Review of Economics and Statistics over the Past 100 Years: Authorship." <i>Review of Economics and Statistics</i> 100, no. 3 (2018b): i-v.
+
+Khwaja, Asim I., and Kunal Mangal. "Review of Economics and Statistics over the Past 100 Years: Content." <i>Review of Economics and Statistics</i> 100, no. 4 (2018c): i-vi.
+
+Khwaja, Asim I. and Kunal Mangal. "Review of Economics and Statistics over the Past 100 Years: Content Explorer. <i>Review of Economics and Statistics</i> 101, no. 1 (2019): pp.i-iii.
+
+The last article has an accompanying <a href="https://rest-wordcount.shinyapps.io/explorer/">web application</a> that allows you to track the popularity of words and phrases in ReStat over time.
+
+
+
+
+
