@@ -17,7 +17,9 @@ Abstract: Government jobs in India are valuable, not just because they pay relat
 
 ## Work in Progress
 
+<b>The Underrepresentation of Women in Competitive Careers: Evidence from the Indian Civil Service</b> (joint with Niharika Singh)
 
+Abstract: Women are often underrepresented in careers that involve competitive screening. One reason this may be the case is that norms around marriage and family formation prevent women from making as many attempts at overcoming entry barriers as men. We plan to test whether this hypothesis explains the gender gap in civil service exam results in India.
 
 ## Publications
 
@@ -34,8 +36,4 @@ Khwaja, Asim I., and Kunal Mangal. "Review of Economics and Statistics over the 
 Khwaja, Asim I. and Kunal Mangal. "Review of Economics and Statistics over the Past 100 Years: Content Explorer. <i>Review of Economics and Statistics</i> 101, no. 1 (2019): pp.i-iii.
 
 The last article has an accompanying <a href="https://rest-wordcount.shinyapps.io/explorer/">web application</a> that allows you to track the popularity of words and phrases in ReStat over time.
-
-
-
-
 
