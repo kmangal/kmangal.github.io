@@ -4,10 +4,6 @@ I am a Visiting Fellow at the <a href="https://cse.azimpremjiuniversity.edu.in/"
 
 My research focuses on labor markets in developing countries, with a specific focus on India. Recently I have been focused on understanding how the competitive exam system for government jobs interacts with the functioning of the labor market as a whole.
 
-## Contact
-
-Email: kunal.mangal@apu.edu.in
-
 ## Working Papers
 
 <a href="kmangal.github.io/files/chasing-gov-jobs.pdf" target="_blank">Chasing Government Jobs: How Aggregate Labor Supply Responds to Public Sector Hiring Policy in India</a>
