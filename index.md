@@ -1,8 +1,8 @@
 ## Bio
 
-I am a Visiting Fellow at the <a href="https://cse.azimpremjiuniversity.edu.in/">Centre for Sustainable Employment</a> at Azim Premji University. I graduated from Harvard University with a PhD in Public Policy in 2021.
+I am a Visiting Fellow at the <a href="https://cse.azimpremjiuniversity.edu.in/">Centre for Sustainable Employment</a> at Azim Premji University and a recipient of the <a href="https://bfi.uchicago.edu/the-weiss-fund/about/">Weiss Fund Postdoctoral Fellowship</a>. I graduated from Harvard University with a PhD in Public Policy in 2021.
 
-My research focuses on labor markets in developing countries, with a specific focus on India. Recently I have been focused on understanding how the competitive exam system for government jobs interacts with the functioning of the labor market as a whole.
+My research focuses on labor markets in developing countries, with a specific focus on India. Recently I have been focused on understanding how the competitive exam system for government jobs interacts with the functioning of the labor market as a whole, and how to generate new sources of labor market data.
 
 ## Working Papers
 
@@ -37,3 +37,10 @@ Khwaja, Asim I. and Kunal Mangal. "Review of Economics and Statistics over the P
 
 The last article has an accompanying <a href="https://rest-wordcount.shinyapps.io/explorer/">web application</a> that allows you to track the popularity of words and phrases in ReStat over time.
 
+## Media
+
+In the course of my fieldwork, I have been profiled by various Indian newspapers:
+
+स्पर्धा परीक्षांच्या अभ्यासकांवर ‘पीएचडी’ ("PhD" on Competitive Exam Practitioners), <i>Lok Mat</i> \[Marathi language newspaper\], November 28th, 2019.
+
+प्रशासकीय स्पर्धा परीक्षांवर हार्वर्डच्या विद्यार्थ्याचे संशोधन (Harvard Student Researches Competitive Examinations for Government Jobs), <i>Lok Satta</i> \[Marathi language newspaper\],  November 29th, 2019.
