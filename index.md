@@ -41,6 +41,6 @@ The last article has an accompanying <a href="https://rest-wordcount.shinyapps.i
 
 In the course of my fieldwork, I have been profiled by various Indian newspapers:
 
-स्पर्धा परीक्षांच्या अभ्यासकांवर ‘पीएचडी’ ("PhD" on Competitive Exam Practitioners), <i>Lok Mat</i> \[Marathi language newspaper\], November 28th, 2019.
+<a href="https://www.lokmat.com/pune/phd-competition-examination-practitioners/">स्पर्धा परीक्षांच्या अभ्यासकांवर ‘पीएचडी’</a> ("PhD" on Competitive Exam Practitioners), <i>Lok Mat</i> \[Marathi language newspaper\], November 28th, 2019.
 
-प्रशासकीय स्पर्धा परीक्षांवर हार्वर्डच्या विद्यार्थ्याचे संशोधन (Harvard Student Researches Competitive Examinations for Government Jobs), <i>Lok Satta</i> \[Marathi language newspaper\],  November 29th, 2019.
+<a href="files/media/loksatta.png" target="_blank">प्रशासकीय स्पर्धा परीक्षांवर हार्वर्डच्या विद्यार्थ्याचे संशोधन (Harvard Student Researches Competitive Examinations for Government Jobs), <i>Lok Satta</i> \[Marathi language newspaper\],  November 29th, 2019.
