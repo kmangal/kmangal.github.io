@@ -2,7 +2,7 @@
 
 I am a Visiting Fellow at the <a href="https://cse.azimpremjiuniversity.edu.in/">Centre for Sustainable Employment</a> at Azim Premji University and a recipient of the <a href="https://bfi.uchicago.edu/the-weiss-fund/about/">Weiss Fund Postdoctoral Fellowship</a>. I graduated from Harvard University with a PhD in Public Policy in 2021.
 
-My research focuses on labor markets in developing countries, with a specific focus on India. Recently I have been focused on understanding how the competitive exam system for government jobs interacts with the functioning of the labor market as a whole, and how to generate new sources of labor market data.
+My research focuses on labor markets in developing countries, with a specific focus on India. Recently I have been studying how the competitive exam system for government jobs interacts with rest of the labor market.
 
 ## Working Papers
 
