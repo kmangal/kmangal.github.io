@@ -6,20 +6,25 @@ My research focuses on labor markets in developing countries, with a specific fo
 
 ## Working Papers
 
-<a href="files/chasing-gov-jobs.pdf" target="_blank">Chasing Government Jobs: How Aggregate Labor Supply Responds to Public Sector Hiring Policy in India</a>
+<a href="files/papers/chasing-gov-jobs.pdf" target="_blank">Chasing Government Jobs: How Aggregate Labor Supply Responds to Public Sector Hiring Policy in India</a>
 
 Abstract: Many countries allocate government jobs through a system of highly competitive exams. For example, in India, civil service exams regularly attract over a half a million applications, with an acceptance rate of less than 0.1%. This paper studies whether the intense competition for these jobs affects aggregate labor supply. To answer this question, I study how the labor market responded to a civil service hiring freeze in the state of Tamil Nadu. I find that candidates responded by spending more time studying, not less. A decade after the hiring freeze was lifted, the cohorts that were most impacted also have lower earnings, suggesting that participation in the exam process did not build human capital. Finally, I provide evidence that structural features of the testing environment—such as how well candidates are able to forecast their own performance, and the underlying returns to study effort—help explain the observed response. Together, these results indicate that public sector hiring policy has the potential to move the whole labor market.
 
 
-<b>How much is a government job in India worth?</b> (draft coming soon!)
+<a href="files/papers/value-govjobs.pdf" target="_blank">How much is a government job in India worth?</a> 
 
-Abstract: Government jobs in India are valuable, not just because they pay relatively higher wages, but also because they provide many valuable amenities, such as lifetime tenure, access to bribes, and prestige. These jobs are generally allocated through a system of competitive exams. In this paper, I use the observed search behavior of candidates preparing for these examinations to infer a lower bound on the value of these amenities. I find that the implied amenity value is worth at least several times the nominal wage. The high amenity value is not driven by misinformed beliefs about the nominal wage, or by a high value placed on the process of studying itself. I conclude with a discussion of the implications of a high amenity value of government jobs for the design of public sector incentives, selection patterns, and the market for educated labor.
+Abstract: Government jobs in India are valuable, not just because they pay relatively higher wages, but also because they provide many valuable amenities, such as lifetime tenure, access to bribes, and prestige. Does the value of these amenities compete with the nominal wage itself? I use the observed search behavior of candidates preparing for highly structured competitive exams for government jobs to infer a lower bound on the total value of a government job, including amenities. Based on a sample of 120 male candidates preparing for state-level civil service exams in Pune, Maharashtra, I estimate a total value of <i>at least</i> 425,000 INR per month. This estimate implies that the amenity value of a government job is <i>at least</i> 81% of total compensation. The high amenity value is not driven by misinformed beliefs about the nominal wage, nor by a high value placed on the process of studying itself. I conclude with a discussion of the implications of these findings for policy and the questions it raises for future research.
 
 ## Work in Progress
 
 <b>The Underrepresentation of Women in Competitive Careers: Evidence from the Indian Civil Service</b> (joint with Niharika Singh)
 
 Abstract: Women are often underrepresented in careers that involve competitive screening. One reason this may be the case is that norms around marriage and family formation prevent women from making as many attempts at overcoming entry barriers as men. We plan to test whether this hypothesis explains the gender gap in civil service exam results in India.
+
+
+<b>What Can Online Vacancies Tell Us About Labor Market Conditions in Lower-Income Countries? Evidence from India</b> (joint with Niharika Singh and Justin Bloesch)
+
+Abstract: In developing countries, where labor market data is often scarce and infrequently collected, online job vacancy data may provide valuable insights. However, it is still an open question whether variation in online recruitment adequately represents the broader economy in these settings. We are currently collecting data from a wide range of online job boards in India. We then plan to compare that data with existing household survey data to better understand how informative it is.
 
 ## Publications
 
