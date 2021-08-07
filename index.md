@@ -32,13 +32,13 @@ Abstract: In developing countries, where labor market data is often scarce and i
 
 The following articles are non-peer-reviewed pieces written in commemoration of the <i>Review of Economics and Statistics</i> 100th anniversary:
 
-Khwaja, Asim I., and Kunal Mangal. "Review of Economics and Statistics over the Past 100 Years: A Counting Exercise." <i>Review of Economics and Statistics</i> 100, no. 2 (2018a): i-v.
+Khwaja, Asim I., and Kunal Mangal. "<a href="https://direct.mit.edu/rest/article/100/2/i/58460/Review-of-Economics-and-Statistics-over-the-Past">Review of Economics and Statistics over the Past 100 Years: A Counting Exercise</a>." <i>Review of Economics and Statistics</i> 100, no. 2 (2018a): i-v.
 
-Khwaja, Asim I., and Kunal Mangal. "Review of Economics and Statistics over the Past 100 Years: Authorship." <i>Review of Economics and Statistics</i> 100, no. 3 (2018b): i-v.
+Khwaja, Asim I., and Kunal Mangal. "<a href="https://direct.mit.edu/rest/article/100/3/i/58477/Review-of-Economics-and-Statistics-over-the-Past">Review of Economics and Statistics over the Past 100 Years: Authorship</a>." <i>Review of Economics and Statistics</i> 100, no. 3 (2018b): i-v.
 
-Khwaja, Asim I., and Kunal Mangal. "Review of Economics and Statistics over the Past 100 Years: Content." <i>Review of Economics and Statistics</i> 100, no. 4 (2018c): i-vi.
+Khwaja, Asim I., and Kunal Mangal. "<a href="https://direct.mit.edu/rest/article/100/4/i/58506/Review-of-Economics-and-Statistics-over-the-Past">Review of Economics and Statistics over the Past 100 Years: Content</a>." <i>Review of Economics and Statistics</i> 100, no. 4 (2018c): i-vi.
 
-Khwaja, Asim I. and Kunal Mangal. "Review of Economics and Statistics over the Past 100 Years: Content Explorer. <i>Review of Economics and Statistics</i> 101, no. 1 (2019): pp.i-iii.
+Khwaja, Asim I. and Kunal Mangal. "<a href="https://direct.mit.edu/rest/article/101/1/i/58662/Review-of-Economics-and-Statistics-over-the-Past">Review of Economics and Statistics over the Past 100 Years: Content Explorer</a>." <i>Review of Economics and Statistics</i> 101, no. 1 (2019): pp.i-iii.
 
 The last article has an accompanying <a href="https://rest-wordcount.shinyapps.io/explorer/">web application</a> that allows you to track the popularity of words and phrases in ReStat over time.
 
