@@ -18,7 +18,7 @@ Abstract: Many countries allocate government jobs through a system of merit-base
 
 Abstract: Government jobs in India are valuable, not just because they pay relatively higher wages, but also because they provide many valuable amenities, such as lifetime tenure, access to bribes, and prestige. Does the value of these amenities compete with the nominal wage itself? I use the observed search behavior of candidates preparing for highly structured competitive exams for government jobs to infer a lower bound on the total value of a government job, including amenities. Based on a sample of 120 male candidates preparing for state-level civil service exams in Pune, Maharashtra, I estimate a total value of <i>at least</i> 425,000 INR per month. This estimate implies that the amenity value of a government job is <i>at least</i> 81% of total compensation. The high amenity value is not driven by misinformed beliefs about the nominal wage, nor by a high value placed on the process of studying itself. I conclude with a discussion of the implications of these findings for policy and the questions it raises for future research.
 
-## Work in Progress
+## Research in Progress
 
 <b>The Underrepresentation of Women in Competitive Careers: Evidence from the Indian Civil Service</b> (joint with Niharika Singh)
 
