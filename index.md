@@ -22,7 +22,7 @@ Abstract: Government jobs in India are valuable, not just because they pay relat
 
 <b>The Underrepresentation of Women in Competitive Careers: Evidence from the Indian Civil Service</b> (joint with Niharika Singh)
 
-Abstract: Women are often underrepresented in careers that involve competitive screening. One reason this may be the case is that norms around marriage and family formation prevent women from making as many attempts at overcoming entry barriers as men. We plan to test whether this hypothesis explains the gender gap in civil service exam results in India.
+Abstract: Entry into prestigious, high-paying jobs often depends on succeeding in tournaments. These are the same jobs in which women tend to be under-represented. In this paper, we explore the causes of under-representation of women in the Indian civil services, where placement depends on succeeding in a highly competitive examination process. Using a dataset from a large Indian state that covers the universe of applicants and their placement outcomes to state-level civil service jobs between 2012-2016, we uncover where gaps arise in the recruitment process. We show that test re-taking is a key constraint for women: successful placement typically require multiple attempts, but women&#8212;particularly those that score well on initial attempts&#8212;are less likely to retake the exam than men. The dynamic selection of applicants across exam attempts contributes to a gender gap in placement outcomes. We provide suggestive evidence that the marriage pressure constrains high-ability women from making more attempts.
 
 
 <b>What Can Online Vacancies Tell Us About Labor Market Conditions in Lower-Income Countries? Evidence from India</b> (joint with Niharika Singh and Justin Bloesch)
