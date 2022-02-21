@@ -22,7 +22,6 @@ Abstract: Government jobs in India are valuable, not just because they pay relat
 <!--Abstract: Many countries allocate government jobs through a system of merit-based exams. In India, these exams are highly competitive, with selection rates often less than 0.1%. Among recent college graduates, for whom application rates are the highest, does the competition for scarce and valuable government jobs affect labor supply? To answer this question, I study the labor market impact of a partial public sector hiring freeze in the state of Tamil Nadu between 2001 and 2006, which sharply reduced the number of public sector vacancies available through exams but otherwise left aggregate labor demand intact. I find that candidates responded by spending less time employed, and more time studying. A decade after the hiring freeze was lifted, the cohorts of men that spent more time studying now work in lower-paid occupations. To compensate, they live in households with more earning members, but this also means they delay forming their own households, being more likely to remain unmarried and live with their parents. Finally, I show that the shape of the returns to study effort helps explain why it is so costly for candidates to suspend exam preparation, even when vacancy availability falls. Together, these results indicate that public sector hiring policy has the potential to move the whole labor market.-->
 
 <br/>
-<br/>
 
 <b>The Underrepresentation of Women in Competitive Careers: Evidence from the Indian Civil Service</b> (joint with Niharika Singh)
 
