@@ -6,13 +6,6 @@ My research focuses on labor markets in developing countries, with a specific fo
 
 ## Working Papers
 
-<div><a style="padding-bottom: 0px; margin-bottom: 5px;" href="files/papers/competitive-exams.pdf" target="_blank">Competitive Exams for Government Jobs and the Labor Supply of College Graduates in India</a>
-<p style="font-size: 8pt; margin-top: 5px; margin-bottom: 5px">Media: <a href="https://www.discoursemagazine.com/economics/2021/01/14/ideas-of-india-chasing-government-jobs-in-india/">Ideas of India</a></p>
-<p style="font-size: 8pt; margin-top: 0px; margin-bottom: 20px;">Peviously circulated as "Chasing Government Jobs: How Aggregate Labor Supply Responds to Public Sector Hiring Policy in India"</p></div>
-
-Abstract: Many countries allocate government jobs through a system of merit-based exams. In India, these exams are highly competitive, with selection rates often less than 0.1%. Among recent college graduates, for whom application rates are the highest, does the competition for scarce and valuable government jobs affect labor supply? To answer this question, I study the labor market impact of a partial public sector hiring freeze in the state of Tamil Nadu between 2001 and 2006, which sharply reduced the number of public sector vacancies available through exams but otherwise left aggregate labor demand intact. I find that candidates responded by spending less time employed, and more time studying. A decade after the hiring freeze was lifted, the cohorts of men that spent more time studying now work in lower-paid occupations. To compensate, they live in households with more earning members, but this also means they delay forming their own households, being more likely to remain unmarried and live with their parents. Finally, I show that the shape of the returns to study effort helps explain why it is so costly for candidates to suspend exam preparation, even when vacancy availability falls. Together, these results indicate that public sector hiring policy has the potential to move the whole labor market.
-
-
 <div><a style="padding-bottom: 0px; margin-bottom: 5px;" href="files/papers/value-govjob.pdf" target="_blank">How much is a government job in India worth?</a> 
 <p style="font-size:8pt; margin-top: 5px; margin-bottom: 20px;">Media: <a href="https://www.lokmat.com/pune/phd-competition-examination-practitioners/"><i>Lok Mat</i> (Marathi language newspaper)</a>, <a href="files/media/loksatta.png" target="_blank"><i>Lok Satta</i> (Marathi language newspaper)</a></p></div>
 
@@ -20,10 +13,18 @@ Abstract: Government jobs in India are valuable, not just because they pay relat
 
 ## Research in Progress
 
+<div>
+<b>Competitive Exams for Government Jobs and the Labor Supply of College Graduates in India</b>
+<!-- <p style="font-size: 8pt; margin-top: 5px; margin-bottom: 5px">Media: <a href="https://www.discoursemagazine.com/economics/2021/01/14/ideas-of-india-chasing-government-jobs-in-india/">Ideas of India</a></p>-->
+<p style="font-size: 8pt; margin-top: 0px; margin-bottom: 20px;">Peviously circulated as "Chasing Government Jobs: How Aggregate Labor Supply Responds to Public Sector Hiring Policy in India"</p>
+<i> Revised version coming soon! </i>
+</div>
+
+<!--Abstract: Many countries allocate government jobs through a system of merit-based exams. In India, these exams are highly competitive, with selection rates often less than 0.1%. Among recent college graduates, for whom application rates are the highest, does the competition for scarce and valuable government jobs affect labor supply? To answer this question, I study the labor market impact of a partial public sector hiring freeze in the state of Tamil Nadu between 2001 and 2006, which sharply reduced the number of public sector vacancies available through exams but otherwise left aggregate labor demand intact. I find that candidates responded by spending less time employed, and more time studying. A decade after the hiring freeze was lifted, the cohorts of men that spent more time studying now work in lower-paid occupations. To compensate, they live in households with more earning members, but this also means they delay forming their own households, being more likely to remain unmarried and live with their parents. Finally, I show that the shape of the returns to study effort helps explain why it is so costly for candidates to suspend exam preparation, even when vacancy availability falls. Together, these results indicate that public sector hiring policy has the potential to move the whole labor market.-->
+
 <b>The Underrepresentation of Women in Competitive Careers: Evidence from the Indian Civil Service</b> (joint with Niharika Singh)
 
 Abstract: Entry into prestigious, high-paying jobs often depends on succeeding in tournaments. These are the same jobs in which women tend to be under-represented. In this paper, we explore the causes of under-representation of women in the Indian civil services, where placement depends on succeeding in a highly competitive examination process. Using a dataset from a large Indian state that covers the universe of applicants and their placement outcomes to state-level civil service jobs between 2012-2016, we uncover where gaps arise in the recruitment process. We show that test re-taking is a key constraint for women: successful placement typically require multiple attempts, but women&#8212;particularly those that score well on initial attempts&#8212;are less likely to retake the exam than men. The dynamic selection of applicants across exam attempts contributes to a gender gap in placement outcomes. We provide suggestive evidence that the marriage pressure constrains high-ability women from making more attempts.
-
 
 <b>What Can Online Vacancies Tell Us About Labor Market Conditions in Lower-Income Countries? Evidence from India</b> (joint with Niharika Singh and Justin Bloesch)
 
