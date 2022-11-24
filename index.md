@@ -4,6 +4,16 @@ I am a Visiting Fellow at the <a href="https://cse.azimpremjiuniversity.edu.in/"
 
 My research focuses on labor markets in developing countries, with a specific focus on India. Recently I have been studying how the competition for government jobs through merit-based exams interacts with rest of the labor market.
 
+<hr/>
+
+## The TNPSC Research Study
+
+The TNPSC Research Study is an ongoing effort to better understand the labor market experience of candidates applying to exams conducted by the Tamil Nadu Public Service Commission (TNPSC). As a part of this research project, we are also generating or compiling resources that may be useful for people who participate in the exam process.
+
+<b><a href="/tnpsc-research">Click here</a></b> for more information about the current status of the study, and to see what we've done so far.
+
+<hr/>
+
 ## Working Papers
 
 <div style="padding-bottom: 0px; margin-bottom: 10px;">
@@ -21,6 +31,8 @@ My research focuses on labor markets in developing countries, with a specific fo
 
 </div>
 
+<hr/>
+
 ## Research in Progress
 
 <div style="padding-bottom: 0px; margin-bottom: 10px;">
@@ -29,11 +41,14 @@ My research focuses on labor markets in developing countries, with a specific fo
 
 <p><b>Abstract</b>: Entry into prestigious, high-paying jobs often depends on succeeding in tournaments. These are the same jobs in which women tend to be under-represented. In this paper, we explore the causes of under-representation of women in the Indian civil services, where placement depends on succeeding in a highly competitive examination process. Using a dataset from a large Indian state that covers the universe of applicants and their placement outcomes to state-level civil service jobs between 2012-2016, we uncover where gaps arise in the recruitment process. We show that test re-taking is a key constraint for women: successful placement typically require multiple attempts, but women&#8212;particularly those that score well on initial attempts&#8212;are less likely to retake the exam than men. The dynamic selection of applicants across exam attempts contributes to a gender gap in placement outcomes. We provide suggestive evidence that the marriage pressure constrains high-ability women from making more attempts.</p>
 
-<p style="margin-bottom: 5px;"><b>What Can Online Vacancies Tell Us About Labor Market Conditions in Lower-Income Countries? Evidence from India</b> (joint with Niharika Singh and Justin Bloesch)</p>
 
-<p><b>Abstract</b>: In developing countries, where labor market data is often scarce and infrequently collected, online job vacancy data may provide valuable insights. However, it is still an open question whether variation in online recruitment adequately represents the broader economy in these settings. We are currently collecting data from a wide range of online job boards in India. We then plan to compare that data with existing household survey data to better understand how informative it is.</p>
+<p style="margin-bottom: 5px;"><b>The Value of Making Competitive Government Selection Exams More Transparent</b> (joint with Niharika Singh)</p>
+
+<p><b>Abstract</b>: Why are candidates willing to tolerate such low selection rates in competitive exams for government jobs in India? One possibile explanation is that candidates may not have trouble forcasting their likelihood of selection, given the way the exams are designed and implemented. We run an experiment to study how candidate application behavior and study investments might change if the Public Service Commissions were to start releasing more detailed information about the underlying heterogeneity in selection rates. </p>
 
 </div>
+
+<hr/>
 
 ## Publications
 

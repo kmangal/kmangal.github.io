@@ -1,3 +1,14 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+
 *.docx
 /files/cv/archive/*
 /files/photo/archive/*
+
+
+Gemfile.lock
+.bundles_cache
