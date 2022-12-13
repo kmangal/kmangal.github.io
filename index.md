@@ -54,8 +54,11 @@ The TNPSC Research Study is an ongoing effort to better understand the labor mar
 
 ### Policy Briefs
 
-Bloesch, Justin, Kunal Mangal, and Niharika Singh. "<a href="https://g2lm-lic.iza.org/wp-content/uploads/2022/12/GLMLIC-Policy-Brief_054.pdf">How Labor Market Tightness and Job Search Activity Changed in the First Year of COVID-19: Evidence from an Indian Job Portal</a>." G<sup>2</sup>LM|LIC Policy Brief No. 54 (December 2022). <i><a href="https://datasets.iza.org/dataset/1407/how-labor-market-tightness-and-job-search-activity-changed-in-the-first-year-of-covid-19-in-india-evidence-from-a-job-portal">Access data here</a></i>
+<div style="padding-bottom: 20px; margin-bottom: 10px;">
 
+Bloesch, Justin, Kunal Mangal, and Niharika Singh. "<a href="https://g2lm-lic.iza.org/wp-content/uploads/2022/12/GLMLIC-Policy-Brief_054.pdf">How Labor Market Tightness and Job Search Activity Changed in the First Year of COVID-19: Evidence from an Indian Job Portal</a>." G<sup>2</sup>LM|LIC Policy Brief No. 54 (December 2022). <a href="https://datasets.iza.org/dataset/1407/how-labor-market-tightness-and-job-search-activity-changed-in-the-first-year-of-covid-19-in-india-evidence-from-a-job-portal">Access data here</a>
+
+</div>
 
 ### ReStat 100th Anniversary Article Series
 
@@ -70,3 +73,4 @@ Khwaja, Asim I., and Kunal Mangal. "<a href="https://direct.mit.edu/rest/article
 Khwaja, Asim I. and Kunal Mangal. "<a href="https://direct.mit.edu/rest/article/101/1/i/58662/Review-of-Economics-and-Statistics-over-the-Past">Review of Economics and Statistics over the Past 100 Years: Content Explorer</a>." <i>Review of Economics and Statistics</i> 101, no. 1 (2019): pp.i-iii.
 
 The last article has an accompanying <a href="https://rest-wordcount.shinyapps.io/explorer/">web application</a> that allows you to track the popularity of words and phrases in ReStat over time.
+
