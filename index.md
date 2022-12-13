@@ -52,6 +52,11 @@ The TNPSC Research Study is an ongoing effort to better understand the labor mar
 
 ## Publications
 
+### Policy Briefs
+
+Bloesch, Justin, Kunal Mangal, and Niharika Singh. "<a href="https://g2lm-lic.iza.org/wp-content/uploads/2022/12/GLMLIC-Policy-Brief_054.pdf">How Labor Market Tightness and Job Search Activity Changed in the First Year of COVID-19: Evidence from an Indian Job Portal</a>." G<sup>2</sup>LM|LIC Policy Brief No. 54 (December 2022). <i><a href="https://datasets.iza.org/dataset/1407/how-labor-market-tightness-and-job-search-activity-changed-in-the-first-year-of-covid-19-in-india-evidence-from-a-job-portal">Access data here</a></i>
+
+
 ### ReStat 100th Anniversary Article Series
 
 The following articles are non-peer-reviewed pieces written in commemoration of the <i>Review of Economics and Statistics</i> 100th anniversary:
