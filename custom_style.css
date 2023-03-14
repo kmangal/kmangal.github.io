@@ -1,3 +1,24 @@
 li:not(:last-child) {
     margin-bottom: 10px;
 }
+
+table.report {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	border-collapse: collapse;
+}
+
+tr.report {
+    border-collapse: collapse;
+}
+
+td.report {
+	border-top: none;
+    border-bottom: none;
+	height:auto; 
+	width:48%;
+}
+
+p.faq-item {
+	margin-bottom: 5px;
+}

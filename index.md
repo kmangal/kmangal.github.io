@@ -2,15 +2,27 @@
 
 I am a Visiting Fellow at the <a href="https://cse.azimpremjiuniversity.edu.in/">Centre for Sustainable Employment</a> at Azim Premji University and a recipient of the <a href="https://bfi.uchicago.edu/the-weiss-fund/about/">Weiss Fund Postdoctoral Fellowship</a>. I graduated from Harvard University with a PhD in Public Policy in 2021.
 
-My research focuses on labor markets in developing countries, with a specific focus on India. Recently I have been studying how the competition for government jobs through merit-based exams interacts with rest of the labor market.
+My research focuses how high levels of competition for government jobs through merit-based exams interacts with rest of the labor market.
 
 <hr/>
 
 ## The TNPSC Research Study
 
-The TNPSC Research Study is an ongoing effort to better understand the labor market experience of candidates applying to exams conducted by the Tamil Nadu Public Service Commission (TNPSC). As a part of this research project, we are also generating or compiling resources that may be useful for people who participate in the exam process.
+The TNPSC Research Study is an ongoing effort to better understand the labor market experience of candidates applying to exams conducted by the Tamil Nadu Public Service Commission (TNPSC). 
 
-<b><a href="/tnpsc-research">Click here</a></b> for more information about the current status of the study, and to see what we've done so far.
+<b>New! Our main findings from the past five years are now available in the following report:</b>
+<table class="report">
+  <tr class="report">
+    <td class="report"><img src="/files/report/cover.png"></td>
+    <td style="height:auto; width:4%;border-bottom: none;border-top: none;"></td>	
+    <td class="report"><b>Summary:</b>  This report uses data from TNPSC and a survey of over 3000 candidates to shed light on policy-relevant questions about the recruitment process: Who applies? Why do they apply? Why are people willing to invest so much in exam preparation? Why are people willing to gamble on such low odds of getting selected? What is the best way of structuring recruitments for both candidates and the government?
+	<br/>
+	<br/>
+	<button class="btn"><i class="fa fa-download"></i><a href="/files/report/tnpsc-report.pdf" download>  Download Report  </a></button>
+	</td>
+  </tr>
+</table>
+<b><a href="/tnpsc-research">Click here</a></b> for more information about the study, and to see what else we've done so far.
 
 <hr/>
 
@@ -44,7 +56,11 @@ The TNPSC Research Study is an ongoing effort to better understand the labor mar
 
 <p style="margin-bottom: 5px;"><b>The Value of Making Competitive Government Selection Exams More Transparent</b> (joint with Niharika Singh)</p>
 
-<p><b>Abstract</b>: Why are candidates willing to tolerate such low selection rates in competitive exams for government jobs in India? One possibile explanation is that candidates may not have trouble forcasting their likelihood of selection, given the way the exams are designed and implemented. We run an experiment to study how candidate application behavior and study investments might change if the Public Service Commissions were to start releasing more detailed information about the underlying heterogeneity in selection rates. </p>
+<p><b>Abstract</b>: Why are candidates willing to tolerate such low selection rates in competitive exams for government jobs in India? One possible explanation is that candidates may not have trouble forecasting their likelihood of selection, given the way the exams are designed and implemented. We run an experiment to study how candidate application behavior and study investments might change if the Public Service Commissions were to start releasing more detailed information about the underlying heterogeneity in selection rates. </p>
+
+<b style="padding-bottom: 0px; margin-bottom: 5px;">The Competition for Government Jobs When Private Sector Labor Market Opportunities Improve</b> 
+
+<p style="margin-top: 5px;">Abstract coming soon.</p>
 
 </div>
 
