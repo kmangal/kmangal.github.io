@@ -17,7 +17,7 @@ The TNPSC Research Study is an ongoing effort to better understand the labor mar
 		<td class="reportwide"><b>Summary:</b>  This report uses data from TNPSC and a survey of over 3000 candidates to shed light on policy-relevant questions about the recruitment process: Who applies? Why do they apply? Why are people willing to invest so much in exam preparation? Why are people willing to gamble on such low odds of getting selected? What is the best way of structuring recruitments for both candidates and the government?
 		<br/>
 		<br/>
-		<button class="btn"><i class="fa fa-download"></i><a href="/files/report/tnpsc-report.pdf" download>  Download Report  </a></button>
+		<button class="btn"><i class="fa fa-download"></i><a href="/files/report/tnpsc-report-2.pdf" download>  Download Report  </a></button>
 		</td>
 	  </tr>
 	</table>
@@ -32,7 +32,7 @@ The TNPSC Research Study is an ongoing effort to better understand the labor mar
 	  </tr>
 	  <tr class="report">
 		<td class="reportlong">
-			<button class="btn"><i class="fa fa-download"></i><a href="/files/report/tnpsc-report.pdf" download>  Download Report  </a></button>
+			<button class="btn"><i class="fa fa-download"></i><a href="/files/report/tnpsc-report-2.pdf" download>  Download Report  </a></button>
 		</td>
 	  </tr>
 	</table>
