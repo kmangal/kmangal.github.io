@@ -2,7 +2,7 @@
 
 I am a Visiting Fellow at the <a href="https://cse.azimpremjiuniversity.edu.in/">Centre for Sustainable Employment</a> at Azim Premji University and a recipient of the <a href="https://bfi.uchicago.edu/the-weiss-fund/about/">Weiss Fund Postdoctoral Fellowship</a>. I graduated from Harvard University with a PhD in Public Policy in 2021.
 
-My research focuses how high levels of competition for government jobs through merit-based exams interacts with rest of the labor market.
+My research focuses on how high levels of competition for government jobs through merit-based exams interacts with the rest of the labor market.
 
 <hr/>
 
