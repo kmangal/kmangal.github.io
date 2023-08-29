@@ -1,14 +1,16 @@
-## Bio
+## About Me
 
-I am a Visiting Fellow at the <a href="https://cse.azimpremjiuniversity.edu.in/">Centre for Sustainable Employment</a> at Azim Premji University and a recipient of the <a href="https://bfi.uchicago.edu/the-weiss-fund/about/">Weiss Fund Postdoctoral Fellowship</a>. I graduated from Harvard University with a PhD in Public Policy in 2021.
+This website is a repository for my academic work. My research focused on understanding how the competition for government jobs through merit-based exams interacts with the rest of the labor market.
 
-My research focuses on how high levels of competition for government jobs through merit-based exams interacts with the rest of the labor market.
+The work that you see here was completed over the course of my PhD in Public Policy at Harvard University and a postdoctoral fellowship at the <a href="https://cse.azimpremjiuniversity.edu.in/">Centre for Sustainable Employment</a> at Azim Premji University. 
+
+Even though I am no longer an academic, I still hope that this work is able to find the right audience. If you would like to talk about anything you see here, feel free to reach out.
 
 <hr/>
 
 ## The TNPSC Research Study
 
-The TNPSC Research Study is an ongoing effort to better understand the labor market experience of candidates applying to exams conducted by the Tamil Nadu Public Service Commission (TNPSC). 
+The TNPSC Research Study was a five year effort to better understand the labor market experience of candidates applying to exams conducted by the Tamil Nadu Public Service Commission (TNPSC). 
 
 <b>New! Our main findings from the past five years are now available in the following report:</b>
 <div id="reporttablewide">
