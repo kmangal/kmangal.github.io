@@ -1,5 +1,7 @@
 ## About Me
 
+I am a development economist and data scientist. I currently work at <a href="https://www.neo.tax/">Neo.Tax</a>.
+
 This website is a repository for my academic work. My research focused on understanding how the competition for government jobs through merit-based exams interacts with the rest of the labor market.
 
 The work that you see here was completed over the course of my PhD in Public Policy at Harvard University and a postdoctoral fellowship at the <a href="https://cse.azimpremjiuniversity.edu.in/">Centre for Sustainable Employment</a> at Azim Premji University. 
@@ -45,47 +47,35 @@ The TNPSC Research Study was a five year effort to better understand the labor m
 
 <hr/>
 
+
 ## Working Papers
 
 <div style="padding-bottom: 0px; margin-bottom: 10px;">
 
 <a style="padding-bottom: 0px; margin-bottom: 5px;" href="files/papers/tn-hiring-freeze.pdf" target="_blank">The Long-Run Costs of Highly Competitive Exams for Government Jobs</a>
-<p style="font-size: 8pt; margin-top: 5px; margin-bottom: 5px">Media: <a href="https://www.discoursemagazine.com/economics/2021/01/14/ideas-of-india-chasing-government-jobs-in-india/">Ideas of India</a></p>
+<p style="font-size: 8pt; margin-top: 5px; margin-bottom: 5px">Media: <a href="https://www.discoursemagazine.com/economics/2021/01/14/ideas-of-india-chasing-government-jobs-in-india/">Ideas of India</a> | <a href="https://voxdev.org/topic/public-economics/costs-extreme-competition-government-jobs-evidence-india">VoxDev</a></p>
 <p style="font-size: 8pt; margin-top: 0px; margin-bottom: 5px;">Peviously circulated as "Chasing Government Jobs: How Aggregate Labor Supply Responds to Public Sector Hiring Policy in India" and "Competitive Exams for Government Jobs and the Labor Supply of College Graduates in India"</p>
 
 <p><b>Abstract</b> Public sector recruitment exams can be highly competitive. Does this competition encourage candidates to develop skills that are useful even outside of the public sector, or do the years spent preparing for the exam impose long-run costs on candidates who fail to get selected? To address this question, I study the impact of a partial public sector hiring freeze in the state of Tamil Nadu, India between 2001 and 2006 on male college graduates. The hiring freeze caused the remaining recruitments to become even more competitive. Candidates responded by spending less time employed, most likely in order to invest more time in exam preparation. A decade after the hiring freeze ended, the affected cohorts have lower employment rates, have delayed forming their own households, and appear to have a lower earning capacity. Elder members of the household compensate by delaying retirement. Together, these results suggest that highly competitive exams result in large numbers of unsuccessful candidates making investments that are ultimately unproductive.</p>
-
-<a style="padding-bottom: 0px; margin-bottom: 5px;" href="files/papers/value-govjob.pdf" target="_blank">How much are government jobs in developing countries worth?</a> 
-<p style="font-size:8pt; margin-top: 5px; margin-bottom: 5px;">Media: <a href="https://www.lokmat.com/pune/phd-competition-examination-practitioners/"><i>Lok Mat</i> (Marathi language newspaper)</a>, <a href="files/media/loksatta.png" target="_blank"><i>Lok Satta</i> (Marathi language newspaper)</a></p>
-
-<p><b>Abstract</b>: Government jobs in developing countries are valuable not just because they pay relatively higher wages, but also because they provide many valuable amenities. Does the value of these amenities compete with the nominal wage itself? I use the observed search behavior of candidates preparing for competitive exams for government jobs to infer a lower bound on the total value of a government job, including amenities. Based on a sample of 120 male candidates preparing for civil service exams in Pune, India, I estimate that the amenity value of a government job is <i>at least</i> 81% of total compensation. The high amenity value is not driven by misinformed beliefs about the nominal wage, nor by a high value placed on the process of studying itself. I conclude with a discussion of the implications of these findings for policy and the questions it raises for future research.</p>
-
-</div>
-
-<hr/>
-
-## Research in Progress
-
-<div style="padding-bottom: 0px; margin-bottom: 10px;">
-
-<p style="margin-bottom: 5px;"><b>The Underrepresentation of Women in Competitive Careers: Evidence from the Indian Civil Service</b> (joint with Niharika Singh)</p>
-
-<p><b>Abstract</b>: Entry into prestigious, high-paying jobs often depends on succeeding in tournaments. These are the same jobs in which women tend to be under-represented. In this paper, we explore the causes of under-representation of women in the Indian civil services, where placement depends on succeeding in a highly competitive examination process. Using a dataset from a large Indian state that covers the universe of applicants and their placement outcomes to state-level civil service jobs between 2012-2016, we uncover where gaps arise in the recruitment process. We show that test re-taking is a key constraint for women: successful placement typically require multiple attempts, but women&#8212;particularly those that score well on initial attempts&#8212;are less likely to retake the exam than men. The dynamic selection of applicants across exam attempts contributes to a gender gap in placement outcomes. We provide suggestive evidence that the marriage pressure constrains high-ability women from making more attempts.</p>
-
-
-<p style="margin-bottom: 5px;"><b>The Value of Making Competitive Government Selection Exams More Transparent</b> (joint with Niharika Singh)</p>
-
-<p><b>Abstract</b>: Why are candidates willing to tolerate such low selection rates in competitive exams for government jobs in India? One possible explanation is that candidates may not have trouble forecasting their likelihood of selection, given the way the exams are designed and implemented. We run an experiment to study how candidate application behavior and study investments might change if the Public Service Commissions were to start releasing more detailed information about the underlying heterogeneity in selection rates. </p>
-
-<b style="padding-bottom: 0px; margin-bottom: 5px;">The Competition for Government Jobs When Private Sector Labor Market Opportunities Improve</b> 
-
-<p style="margin-top: 5px;">Abstract coming soon.</p>
 
 </div>
 
 <hr/>
 
 ## Publications
+
+### Research Papers
+
+<div style="padding-bottom: 0px; margin-bottom: 10px;">
+
+<a style="padding-bottom: 0px; margin-bottom: 5px;" href="https://academic.oup.com/wber/advance-article/doi/10.1093/wber/lhad047/7584988?utm_source=authortollfreelink&utm_campaign=wber&utm_medium=email&guestAccessKey=4ff2dcfb-1d7c-4b85-b811-f2a8ea7be0e2&login=false">How much are government jobs in developing countries worth?</a>
+<p style="padding-bottom: 0px; margin-bottom: 1px; padding-top: 0px; margin-top: 1px;" >Forthcoming in the <i>World Bank Economic Review</i></p>
+<p style="font-size:8pt; margin-top: 5px; margin-bottom: 5px;">Media: <a href="https://www.lokmat.com/pune/phd-competition-examination-practitioners/"><i>Lok Mat</i> (Marathi language newspaper)</a> | <a href="files/media/loksatta.png" target="_blank"><i>Lok Satta</i> (Marathi language newspaper)</a></p>
+
+<p><b>Abstract</b>: Government jobs in developing countries are valuable not just because they pay relatively higher wages, but also because they provide many valuable amenities. How does the value of these amenities compare with the nominal wage itself? The observed search behavior of candidates preparing for competitive exams for government jobs is used to infer a lower bound on the total value of a government job, including amenities. Based on a sample of 147 candidates preparing for civil service exams in Pune, India, the amenity value of a government job is estimated to comprise at least two-thirds of total compensation. The high amenity value is not driven by misinformed beliefs about the nominal wage, nor by a high value placed on the process of studying itself. Insights from focus group discussions help explain which government job amenities are most valued in this setting</p>
+
+</div>
+
 
 ### Policy Briefs
 
