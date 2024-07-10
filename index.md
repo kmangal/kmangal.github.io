@@ -14,7 +14,7 @@ Even though I am no longer an academic, I still hope that this work is able to f
 
 The TNPSC Research Study was a five year effort to better understand the labor market experience of candidates applying to exams conducted by the Tamil Nadu Public Service Commission (TNPSC). 
 
-<b>New! Our main findings from the past five years are now available in the following report:</b>
+<b>Our main findings are available in the following report:</b>
 <div id="reporttablewide">
 	<table class="report">
 	  <tr class="report">
@@ -48,23 +48,20 @@ The TNPSC Research Study was a five year effort to better understand the labor m
 <hr/>
 
 
-## Working Papers
-
-<div style="padding-bottom: 0px; margin-bottom: 10px;">
-
-<a style="padding-bottom: 0px; margin-bottom: 5px;" href="files/papers/tn-hiring-freeze.pdf" target="_blank">The Long-Run Costs of Highly Competitive Exams for Government Jobs</a>
-<p style="font-size: 8pt; margin-top: 5px; margin-bottom: 5px">Media: <a href="https://www.discoursemagazine.com/economics/2021/01/14/ideas-of-india-chasing-government-jobs-in-india/">Ideas of India</a> | <a href="https://voxdev.org/topic/public-economics/costs-extreme-competition-government-jobs-evidence-india">VoxDev</a></p>
-<p style="font-size: 8pt; margin-top: 0px; margin-bottom: 5px;">Peviously circulated as "Chasing Government Jobs: How Aggregate Labor Supply Responds to Public Sector Hiring Policy in India" and "Competitive Exams for Government Jobs and the Labor Supply of College Graduates in India"</p>
-
-<p><b>Abstract</b> Public sector recruitment exams can be highly competitive. Does this competition encourage candidates to develop skills that are useful even outside of the public sector, or do the years spent preparing for the exam impose long-run costs on candidates who fail to get selected? To address this question, I study the impact of a partial public sector hiring freeze in the state of Tamil Nadu, India between 2001 and 2006 on male college graduates. The hiring freeze caused the remaining recruitments to become even more competitive. Candidates responded by spending less time employed, most likely in order to invest more time in exam preparation. A decade after the hiring freeze ended, the affected cohorts have lower employment rates, have delayed forming their own households, and appear to have a lower earning capacity. Elder members of the household compensate by delaying retirement. Together, these results suggest that highly competitive exams result in large numbers of unsuccessful candidates making investments that are ultimately unproductive.</p>
-
-</div>
-
-<hr/>
-
 ## Publications
 
 ### Research Papers
+
+<div style="padding-bottom: 0px; margin-bottom: 10px;">
+
+<a style="padding-bottom: 0px; margin-bottom: 5px;" href="https://authors.elsevier.com/a/1jOUb15DRG7vya">The long-run costs of highly competitive exams for government jobs</a>
+<p style="padding-bottom: 0px; margin-bottom: 1px; padding-top: 0px; margin-top: 1px;" >Forthcoming in the <i>Journal of Development Economics</i></p>
+<p style="font-size: 8pt; margin-top: 5px; margin-bottom: 5px">Media: <a href="https://www.discoursemagazine.com/economics/2021/01/14/ideas-of-india-chasing-government-jobs-in-india/">Ideas of India</a> | <a href="https://voxdev.org/topic/public-economics/costs-extreme-competition-government-jobs-evidence-india">VoxDev</a></p>
+<p style="font-size: 8pt; margin-top: 0px; margin-bottom: 5px;">Peviously circulated as "Chasing Government Jobs: How Aggregate Labor Supply Responds to Public Sector Hiring Policy in India" and "Competitive Exams for Government Jobs and the Labor Supply of College Graduates in India"</p>
+
+<p><b>Abstract</b>: Public sector recruitment exams can be highly competitive. Does this competition encourage candidates to develop generalizable skills, or do investments in exam preparation burden candidates who fail to get selected? I address this question by studying the impact of a partial public sector hiring freeze in the state of Tamil Nadu, India on male college graduates. The hiring freeze eliminated 86% of the usual vacancies. This increased the applicant-to-vacancy ratio for the remaining posts. Cohorts that were exposed to the hiring freeze delayed full-time employment, most likely in order to invest more time in exam preparation. A decade after the hiring freeze ended, the affected cohorts demonstrate a lower earning capacity, have delayed household formation, and appear more likely to remain unemployed. Together, these results suggest that highly competitive exams encourage candidates to make investments that are ultimately unproductive.</p>
+
+</div>
 
 <div style="padding-bottom: 0px; margin-bottom: 10px;">
 
@@ -72,7 +69,7 @@ The TNPSC Research Study was a five year effort to better understand the labor m
 <p style="padding-bottom: 0px; margin-bottom: 1px; padding-top: 0px; margin-top: 1px;" >Forthcoming in the <i>World Bank Economic Review</i></p>
 <p style="font-size:8pt; margin-top: 5px; margin-bottom: 5px;">Media: <a href="https://www.lokmat.com/pune/phd-competition-examination-practitioners/"><i>Lok Mat</i> (Marathi language newspaper)</a> | <a href="files/media/loksatta.png" target="_blank"><i>Lok Satta</i> (Marathi language newspaper)</a></p>
 
-<p><b>Abstract</b>: Government jobs in developing countries are valuable not just because they pay relatively higher wages, but also because they provide many valuable amenities. How does the value of these amenities compare with the nominal wage itself? The observed search behavior of candidates preparing for competitive exams for government jobs is used to infer a lower bound on the total value of a government job, including amenities. Based on a sample of 147 candidates preparing for civil service exams in Pune, India, the amenity value of a government job is estimated to comprise at least two-thirds of total compensation. The high amenity value is not driven by misinformed beliefs about the nominal wage, nor by a high value placed on the process of studying itself. Insights from focus group discussions help explain which government job amenities are most valued in this setting</p>
+<p><b>Abstract</b>: Government jobs in developing countries are valuable not just because they pay relatively higher wages, but also because they provide many valuable amenities. How does the value of these amenities compare with the nominal wage itself? The observed search behavior of candidates preparing for competitive exams for government jobs is used to infer a lower bound on the total value of a government job, including amenities. Based on a sample of 147 candidates preparing for civil service exams in Pune, India, the amenity value of a government job is estimated to comprise at least two-thirds of total compensation. The high amenity value is not driven by misinformed beliefs about the nominal wage, nor by a high value placed on the process of studying itself. Insights from focus group discussions help explain which government job amenities are most valued in this setting.</p>
 
 </div>
 

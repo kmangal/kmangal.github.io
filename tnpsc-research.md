@@ -8,7 +8,7 @@ The TNPSC Research Study is an ongoing effort to better understand the labor mar
 
 ### What have we learned so far?
 
-<b>New! Our main findings from the past five years are now available in the following report:</b>
+<b>Our main findings are available in the following report:</b>
 <div id="reporttablewide">
 	<table class="report">
 	  <tr class="report">
