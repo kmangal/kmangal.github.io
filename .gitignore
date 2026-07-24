@@ -10,5 +10,4 @@ vendor
 /files/photo/archive/*
 
 
-Gemfile.lock
 .bundles_cache
