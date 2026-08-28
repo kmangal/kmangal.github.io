@@ -8,7 +8,7 @@ The work that you see here was completed over the course of my PhD in Public Pol
 
 Even though I am no longer an academic, I still hope that this work is able to find the right audience. If you would like to talk about anything you see here, feel free to reach out.
 
-<!--<i>I'm currently focused on using AI/ML to build products that solve real-world problems. If you're interested in that side of me, visit me <a href="http://kunal-mangal.xyz/">here</a> to learn more.</i>-->
+<i>I'm currently focused on using AI/ML to build products that solve real-world problems. You can learn more about that side of me <a href="http://kunal-mangal.xyz/">here</a>.</i>
 
 <hr/>
 
